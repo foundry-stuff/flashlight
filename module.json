@@ -1,7 +1,7 @@
 {
     "id": "flashlight",
     "title": "Flashlight",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Toggles a flashlight on and off",
     "author": "hepp",
     "authors": [
@@ -13,6 +13,7 @@
     ],
     "url": "https://github.com/foundry-stuff/flashlight",
     "manifest": "https://raw.githubusercontent.com/foundry-stuff/flashlight/main/module.json",
+    "download": "https://github.com/foundry-stuff/flashlight/releases/download/0.2/module.zip",
     "bugs": "https://github.com/foundry-stuff/flashlight/issues",
     "compatibility": {
         "verified": 11
