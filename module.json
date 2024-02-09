@@ -12,6 +12,8 @@
         }
     ],
     "url": "https://github.com/foundry-stuff/flashlight",
+    "manifest": "https://raw.githubusercontent.com/foundry-stuff/flashlight/main/module.json",
+    "bugs": "https://github.com/foundry-stuff/flashlight/issues",
     "compatibility": {
         "verified": 11
     },
