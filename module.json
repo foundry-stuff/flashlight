@@ -1,0 +1,33 @@
+{
+    "id": "flashlight",
+    "title": "Flashlight",
+    "version": "0.1",
+    "description": "Toggles a flashlight on and off",
+    "author": "hepp",
+    "authors": [
+        {
+            "name": "hepp",
+            "url": "hhttps://github.com/foundry-stuff",
+            "discord": "hepp#4928"
+        }
+    ],
+    "url": "https://github.com/foundry-stuff/flashlight",
+    "compatibility": {
+        "verified": 11
+    },
+    "esmodules": [
+        "./flashlight.js"
+    ],
+    "languages": [
+        {
+            "lang": "de",
+            "name": "Deutsch (German)",
+            "path": "./lang/de.json"
+        },
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "./lang/en.json"
+          }
+    ]
+}

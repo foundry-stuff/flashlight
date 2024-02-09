@@ -1,0 +1,9 @@
+{
+	"FLASHLIGHT.KEYBOARDSHORTCUT.NAME": "Taschenlampe ein/aus",
+	"FLASHLIGHT.BUTTON.LOCATION.NAME": "Button-Position",
+	"FLASHLIGHT.BUTTON.LOCATION.HINT": "Position des Buttons (links oder rechts)",
+	"FLASHLIGHT.BUTTON.LOCATION.LEFT": "Linke Seite",
+	"FLASHLIGHT.BUTTON.LOCATION.RIGHT": "Rechte Seite",
+	"FLASHLIGHT.ROTATE.BUTTON.NAME": "Rotiere Button",
+	"FLASHLIGHT.ROTATE.BUTTON.HINT": "Rotiere Button mit Token/Licht"
+}

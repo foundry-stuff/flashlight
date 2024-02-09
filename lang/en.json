@@ -1,0 +1,9 @@
+{
+	"FLASHLIGHT.KEYBOARDSHORTCUT.NAME": "Toggle Flashlight",
+	"FLASHLIGHT.BUTTON.LOCATION.NAME": "Button Location",
+	"FLASHLIGHT.BUTTON.LOCATION.HINT": "Location of the button (left or right)",
+	"FLASHLIGHT.BUTTON.LOCATION.LEFT": "Left Side",
+	"FLASHLIGHT.BUTTON.LOCATION.RIGHT": "Right Side",
+	"FLASHLIGHT.ROTATE.BUTTON.NAME": "Rotate Button",
+	"FLASHLIGHT.ROTATE.BUTTON.HINT": "Rotate Button with token/light"
+}
